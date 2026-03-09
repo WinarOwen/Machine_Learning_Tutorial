@@ -4,7 +4,7 @@ Machine Learning tutorial based on Hands-On-Machine-Learning , Andrew Ng and oth
 - EDA and Features Engineering (WIP)
 - Linear Regression (X)
 - Logistic Regression (X)
-More topics will be added over time.
+- More topics will be added over time.
 
 ## Installation
 - Clone the repository
